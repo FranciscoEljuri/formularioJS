@@ -1,0 +1,18 @@
+
+.form-group{
+    width: 300px;
+}
+
+#botones{
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+
+}
+fieldset{
+    border-radius: 5%;
+    border: #ff4141 solid 2px;
+    display: grid;
+    justify-items: flex-start;
+    grid-auto-columns: 1px;
+}
